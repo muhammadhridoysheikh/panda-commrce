@@ -4,3 +4,30 @@
 .carousel{
     padding: 20px 40px;
 }
+.container{
+    margin-bottom: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 20px 30px;
+    border-radius: 15px;
+   
+   
+
+}
+.cat1{
+    background-color: blue;
+
+}
+.cat2{
+    background-color: rgb(204, 0, 255);
+
+}
+.cat3{
+    background-color: red;
+}
+.categories img{
+    max-height: 100px;
+} 
+.categories h1{
+    color: white;
+} 
